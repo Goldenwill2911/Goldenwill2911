@@ -1,7 +1,5 @@
 <!-- <h1 align="center">Hello World! I'm Agustine</h1> -->
 
-![Header]
-
 <!-- <p align="center">
   AI Automation Full stack Enginner - Fire is the test of gold; adversity, of strong men!
 
