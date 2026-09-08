@@ -1,19 +1,10 @@
-<!-- <h1 align="center">Hello World! I'm Ricky</h1> -->
+<!-- <h1 align="center">Hello World! I'm Agustine</h1> -->
 
-![Header](assets/github-header-banner.png)
+![Header]
 
 <!-- <p align="center">
   AI Automation Full stack Enginner - Fire is the test of gold; adversity, of strong men!
 
-</p> -->
-
-<p align="center">
-  <a href="https://AgustineGdev.vercel.app">
-    <img src="assets/site-link.svg" alt="Agustine Gonzalez" width="360" />
-  </a>
-
-  <!-- <a href="https://www.linkedin.com/in/agustine-gonzalez-6065aa427/">LinkedIn</a> -
-  <a href="Ko-fi.com/rickyricardo904 ">Ko-Fi</a>
 </p> -->
 
 
