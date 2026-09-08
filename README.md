@@ -3,23 +3,24 @@
 ![Header](assets/github-header-banner.png)
 
 <!-- <p align="center">
-  Full-Stack Developer - IT Support Technician - Information Systems Technology Student
+  AI Automation Full stack Enginner - Fire is the test of gold; adversity, of strong men!
+
 </p> -->
 
 <p align="center">
-  <img src="assets/cordelia-sprite-2.gif" alt="Cordelia sprite" width="72" />
-  <a href="https://RickySerrano.dev">
-    <img src="assets/site-link.svg" alt="RickySerrano.dev" width="360" />
+  <a href="https://AgustineGdev.vercel.app">
+    <img src="assets/site-link.svg" alt="Agustine Gonzalez" width="360" />
   </a>
-  <img src="assets/cordelia-sprite.gif" alt="Cordelia sprite" width="72" />
 
-  <!-- <a href="https://www.linkedin.com/in/rickyricardo904">LinkedIn</a> -
+  <!-- <a href="https://www.linkedin.com/in/agustine-gonzalez-6065aa427/">LinkedIn</a> -
   <a href="Ko-fi.com/rickyricardo904 ">Ko-Fi</a>
 </p> -->
 
 
 ## About Me
-Hello! My name is Ricardo but I go by Ricky. I love the world of computers and code, especially the ability to create things that make people smile, solve real problems, and make life a little easier. I enjoy building tools and interfaces that are simple, practical, and easy to use. With a background in IT support and a degree in Information Systems Technology, I've learned how to approach problems from both the technical side and the user's perspective.
+Hello! My name is Agustine. I'm an AI Automation Engineer. I build LLM-powered applications, agentic workflows, and intelligent automation using Azure OpenAI, GPT models, .NET, and Azure.
+
+My background is in backend engineering and API development with ASP.NET Core, where I've spent years designing scalable services and cloud integrations. These days I apply that experience to AI systems, combining LLMs, APIs, and automation platforms to solve real business problems rather than just building demos.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RickySerrano904/RickySerrano904/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
