@@ -12,7 +12,7 @@ Hello! My name is Agustine. I'm an AI Automation Engineer. I build LLM-powered a
 My background is in backend engineering and API development with ASP.NET Core, where I've spent years designing scalable services and cloud integrations. These days I apply that experience to AI systems, combining LLMs, APIs, and automation platforms to solve real business problems rather than just building demos.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RickySerrano904/RickySerrano904/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
 
@@ -57,7 +57,7 @@ My background is in backend engineering and API development with ASP.NET Core, w
 <!-- ---
 <br> -->
 
-<!-- [![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyserrano904)](https://github.com/rickyserrano904/github-readme-stats) -->
+<!-- [![Agustine's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyserrano904)](https://github.com/rickyserrano904/github-readme-stats) -->
 
 <!-- <p align="center">
   <img src="profile/stats.svg" alt="Ricky's GitHub Stats" />
